@@ -20,9 +20,10 @@ Official website for author Todd Croak-Falen.
 
 ### All Pages
 
-- Complete redesign (Adobe XD).
-  - Improve the UX in addition to the UI.
-  - Better use of spacing rather than line divisions.
+- Complete redesign.
+  - Nail down the UX before the UI.
+  - Redesign the UI in Adobe XD.
+    - Make better use of spacing rather than line divisions.
 - Recode from ground up using BEM and mobile-first breakpoints.
 - Replace all jQuery with vanilla JavaScript.
 - Use Airbnb ESLint and CSS style guide.
@@ -45,9 +46,25 @@ Official website for author Todd Croak-Falen.
   - Review and incorporate best practices for SEO. (And check Google Analytics reports to see if it makes a difference.)
 
 
-### Novels | Short Stories
+### Homepage
+
+- Header image (Cannon Beach).
+- Sign-Up Form overlay on header image.
+- Full-width block for each book below this, which links out to those pages.
+
+
+### Global Nav
+
+- Slide in from the side on mobile?
+- Fixed on desktop?  (Sticky on homepage?)
+
+
+### Catch Up To Myself | The Druggist
 
 - Convert the Amazon button from an image to code so that it's readable by search engines and screen readers.
+- Add the music as a section of each of these pages.
+  - Restyle to a grid of album artwork.
+  - Figure out the best UI/UX for when user clicks on the artwork to view details.
 
 
 ### Bio
@@ -71,15 +88,9 @@ Official website for author Todd Croak-Falen.
 - Get a newer, better backend email system set up.
 
 
-### Music Pages
+### Screenplays (Nice-to-Have)
 
-- Restyle to a grid of album artwork.
-- Figure out the best UI/UX for when user hovers and then clicks on the artwork to view details.
-
-
-### Screenplays
-
-- Add a page for screenplays. Link to the PDF for that script (pending Mark -- and in some cases Dave's -- approval).
+- Add a page for screenplays. Link to the PDF for that script (pending Mark's -- and in some cases Dave's -- approval).
 - Some sort of background artwork that I will probably have to commission.
 - Image of script's title page slides in from the left.
 - Synopsis on the left.
