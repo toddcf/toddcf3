@@ -50,13 +50,14 @@ Official website for author Todd Croak-Falen.
 
 - Header image (Cannon Beach).
 - Sign-Up Form overlay on header image.
+  - Button text says "Sign Up".
 - Full-width block for each book below this, which links out to those pages.
 
 
 ### Global Nav
 
-- Slide in from the side on mobile?
-- Fixed on desktop?  (Sticky on homepage?)
+- Slide in from the side on mobile.
+- Fixed on desktop. (Sticky on homepage.)
 
 
 ### Catch Up To Myself | The Druggist
