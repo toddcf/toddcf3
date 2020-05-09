@@ -57,6 +57,7 @@ Official website for author Todd Croak-Falen.
 ### Global Nav
 
 - Slide in from the side on mobile.
+  - See https://agentestudio.com/blog/best-practices-mobile-navigation-design
 - Fixed on desktop. (Sticky on homepage.)
 
 
